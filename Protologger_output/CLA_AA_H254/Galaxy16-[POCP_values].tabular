@@ -1,0 +1,43 @@
+#Matching species	POCP (%)
+POCP suggests seperate genus between the input genome and Mageeibacillus_indolicus--GCF_000025225.2 as POCP was;	19.0826096638%
+POCP suggests seperate genus between the input genome and Ruminococcus_champanellensis--GCF_000210095.1 as POCP was;	28.5364936042%
+POCP suggests seperate genus between the input genome and Acutalibacter_muris--GCF_002201475.1 as POCP was;	28.9840199384%
+POCP suggests seperate genus between the input genome and Sporobacter_termitidis--GCF_900130065.1 as POCP was;	24.6680436707%
+POCP suggests seperate genus between the input genome and Eubacterium_limosum--GCF_000807675.2 as POCP was;	20.670783048%
+POCP suggests seperate genus between the input genome and Acetivibrio_cellulolyticus--GCF_000179595.2 as POCP was;	17.5543885971%
+POCP suggests seperate genus between the input genome and Clostridium_cellobioparum--GCF_000621505.1 as POCP was;	19.4092307692%
+POCP suggests seperate genus between the input genome and Ruminococcus_bromii--GCF_900101355.1 as POCP was;	27.1591326718%
+POCP suggests seperate genus between the input genome and Oscillibacter_valericigenes--GCF_000283575.1 as POCP was;	26.8980477223%
+POCP suggests seperate genus between the input genome and Pseudoflavonifractor_capillosus--GCF_000169255.2 as POCP was;	33.9472157773%
+POCP suggests seperate genus between the input genome and Intestinimonas_butyriciproducens--GCA_003096335.1 as POCP was;	31.2294543064%
+POCP suggests seperate genus between the input genome and Clostridium_viride--GCF_000620945.1 as POCP was;	25.7051523129%
+POCP suggests seperate genus between the input genome and Pseudobacteroides_cellulosolvens--GCF_001262605.1 as POCP was;	14.9208487706%
+POCP suggests seperate genus between the input genome and Flavonifractor_plautii--GCF_000239295.1 as POCP was;	31.0545998504%
+POCP suggests seperate genus between the input genome and Ruminococcus_flavefaciens--GCF_000571935.1 as POCP was;	25.1710654936%
+POCP suggests seperate genus between the input genome and Clostridium_butyricum--GCF_000409755.1 as POCP was;	21.7507002801%
+POCP suggests seperate genus between the input genome and Clostridium_leptum--GCF_000154345.1 as POCP was;	31.1050939245%
+POCP suggests seperate genus between the input genome and Acetanaerobacterium_elongatum--GCF_900103835.1 as POCP was;	26.6970706894%
+POCP suggests seperate genus between the input genome and Ruthenibacterium_lactatiformans--GCF_000949455.1 as POCP was;	40.6954750473%
+POCP suggests seperate genus between the input genome and Clostridium_jeddahense--GCF_000577335.1 as POCP was;	28.2618862042%
+POCP suggests seperate genus between the input genome and Ruminococcus_callidus--GCF_000468015.1 as POCP was;	29.3393445466%
+POCP suggests the input genome and Gemmiger_formicilis--GCF_900167555.1 belong to the same genus with a POCP of;	50.6540447504%
+POCP suggests seperate genus between the input genome and Clostridium_termitidis--GCF_000350485.1 as POCP was;	19.697696737%
+POCP suggests seperate genus between the input genome and Clostridium_methylpentosum--GCF_000158655.1 as POCP was;	29.1252144082%
+POCP suggests seperate genus between the input genome and Subdoligranulum_variabile--GCF_000157955.1 as POCP was;	47.5990597717%
+POCP suggests seperate genus between the input genome and Agathobaculum_butyriciproducens--GCA_003096535.1 as POCP was;	37.5745526839%
+POCP suggests seperate genus between the input genome and Anaerotruncus_colihominis--GCF_000154565.1 as POCP was;	32.5312077004%
+POCP suggests seperate genus between the input genome and Hydrogenoanaerobacterium_saccharovorans--GCF_900110045.1 as POCP was;	29.3353576248%
+POCP suggests seperate genus between the input genome and Herbivorax_saccincola--GCF_002844395.1 as POCP was;	17.7310654685%
+POCP suggests seperate genus between the input genome and Clostridium_clariflavum--GCF_000237085.1 as POCP was;	18.9189189189%
+POCP suggests the input genome and Faecalibacterium_prausnitzii--GCA_003287495.1 belong to the same genus with a POCP of;	71.1573903428%
+POCP suggests seperate genus between the input genome and Clostridium_sporosphaeroides--GCF_000383295.1 as POCP was;	30.2270815812%
+POCP suggests seperate genus between the input genome and Clostridium_cellulosi--GCF_000953215.1 as POCP was;	25.6829511466%
+POCP suggests seperate genus between the input genome and Ruminococcus_albus--GCF_900109655.1 as POCP was;	24.2220484754%
+POCP suggests seperate genus between the input genome and Butyricicoccus_pullicaecorum--GCF_900167005.1 as POCP was;	35.7868852459%
+POCP suggests seperate genus between the input genome and Clostridium_straminisolvens--GCF_000521465.1 as POCP was;	18.8570663812%
+POCP suggests seperate genus between the input genome and Ethanoligenens_harbinense--GCF_000178115.2 as POCP was;	27.5808403943%
+POCP suggests seperate genus between the input genome and Agathobaculum_desmolans--GCF_000701665.1 as POCP was;	33.5288888889%
+POCP suggests seperate genus between the input genome and Eubacterium_coprostanoligenes--GCF_900167205.1 as POCP was;	27.3471145564%
+POCP suggests seperate genus between the input genome and Fournierella_massiliensis--GCF_001486665.1 as POCP was;	42.6347122577%
+POCP suggests seperate genus between the input genome and Eubacterium_siraeum--GCF_000154325.1 as POCP was;	27.7133233533%
+POCP suggests seperate genus between the input genome and Clostridium_papyrosolvens--GCF_000175795.2 as POCP was;	19.2360728075%

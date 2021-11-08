@@ -1,0 +1,45 @@
+#Matching species	POCP (%)
+POCP suggests seperate genus between the input genome and Dysgonomonas_capnocytophagoides--GCF_000426485.1 as POCP was;	38.3418367347%
+POCP suggests seperate genus between the input genome and Bacteroides_sartorii--GCA_000614185.1 as POCP was;	47.3722704002%
+POCP suggests seperate genus between the input genome and Bacteroides_gallinarum--GCF_000374365.1 as POCP was;	46.1394038958%
+POCP suggests seperate genus between the input genome and Paludibacter_propionicigenes--GCF_000183135.1 as POCP was;	34.2845495312%
+POCP suggests seperate genus between the input genome and Proteiniphilum_acetatigenes--GCF_000380985.1 as POCP was;	39.9014171288%
+POCP suggests seperate genus between the input genome and Petrimonas_mucosa--GCF_900095795.1 as POCP was;	38.415135728%
+POCP suggests seperate genus between the input genome and Bacteroides_clarus--GCF_900129655.1 as POCP was;	49.0017655847%
+POCP suggests seperate genus between the input genome and Dysgonomonas_hofstadii--GCA_001312525.1 as POCP was;	37.0929518125%
+POCP suggests the input genome and Parabacteroides_merdae--GCF_000154105.1 belong to the same genus with a POCP of;	62.5923606763%
+POCP suggests seperate genus between the input genome and Barnesiella_viscericola--GCF_000512915.1 as POCP was;	42.8739867354%
+POCP suggests seperate genus between the input genome and Bacteroides_coprophilus--GCF_000157915.1 as POCP was;	46.8636127017%
+POCP suggests seperate genus between the input genome and Bacteroides_faecis--GCF_900106755.1 as POCP was;	47.9587308631%
+POCP suggests seperate genus between the input genome and Bacteroides_faecichinchillae--GCF_000614145.1 as POCP was;	48.5347569287%
+POCP suggests seperate genus between the input genome and Bacteroides_barnesiae--GCF_000374585.1 as POCP was;	48.0370774264%
+POCP suggests seperate genus between the input genome and Bacteroides_caecimuris--GCF_001688725.2 as POCP was;	45.2600119546%
+POCP suggests seperate genus between the input genome and Barnesiella_intestinihominis--GCF_000296465.1 as POCP was;	41.6549196504%
+POCP suggests seperate genus between the input genome and Dysgonomonas_gadei--GCF_000213555.1 as POCP was;	40.7156443176%
+POCP suggests the input genome and Bacteroides_fluxus--GCF_000195635.1 belong to the same genus with a POCP of;	50.4892616597%
+POCP suggests the input genome and Bacteroides_uniformis--GCF_000154205.1 belong to the same genus with a POCP of;	50.2203182375%
+POCP suggests seperate genus between the input genome and Bacteroides_massiliensis--GCF_000382445.1 as POCP was;	49.8181377304%
+POCP suggests seperate genus between the input genome and Porphyromonas_loveana--GCA_003096695.1 as POCP was;	35.3961183583%
+POCP suggests seperate genus between the input genome and Tannerella_forsythia--GCF_001006485.1 as POCP was;	43.6743987477%
+POCP suggests seperate genus between the input genome and Bacteroides_oleiciplenus--GCF_000315485.1 as POCP was;	45.750101916%
+POCP suggests seperate genus between the input genome and Dysgonomonas_macrotermitis--GCF_900128985.1 as POCP was;	36.4427259546%
+POCP suggests seperate genus between the input genome and Bacteroides_thetaiotaomicron--GCF_000011065.1 as POCP was;	47.0530877573%
+POCP suggests the input genome and Parabacteroides_distasonis--GCF_000012845.1 belong to the same genus with a POCP of;	81.7348292918%
+POCP suggests seperate genus between the input genome and Bacteroides_nordii--GCF_000613465.1 as POCP was;	48.7603305785%
+POCP suggests the input genome and Parabacteroides_johnsonii--GCF_000156495.1 belong to the same genus with a POCP of;	62.6950526188%
+POCP suggests seperate genus between the input genome and Bacteroides_acidifaciens--GCA_000613385.1 as POCP was;	43.2916892993%
+POCP suggests seperate genus between the input genome and Dysgonomonas_mossii--GCF_000213575.1 as POCP was;	41.6070732024%
+POCP suggests seperate genus between the input genome and Bacteroides_stercorirosoris--GCF_000614165.1 as POCP was;	45.6811427476%
+POCP suggests the input genome and Parabacteroides_chinchillae--GCF_900108035.1 belong to the same genus with a POCP of;	63.8911676237%
+POCP suggests the input genome and Parabacteroides_goldsteinii--GCF_000969835.1 belong to the same genus with a POCP of;	61.9302949062%
+POCP suggests seperate genus between the input genome and Bacteroides_ovatus--GCF_001314995.1 as POCP was;	46.4029558792%
+POCP suggests seperate genus between the input genome and Coprobacter_fastidiosus--GCF_000473955.1 as POCP was;	44.5256520493%
+POCP suggests seperate genus between the input genome and Bacteroides_rodentium--GCA_000614125.1 as POCP was;	49.21875%
+POCP suggests the input genome and Parabacteroides_gordonii--GCF_000969825.1 belong to the same genus with a POCP of;	62.8607016815%
+POCP suggests seperate genus between the input genome and Bacteroides_luti--GCF_900128905.1 as POCP was;	42.9503395021%
+POCP suggests seperate genus between the input genome and Proteiniphilum_saccharofermentans--GCF_900095135.1 as POCP was;	40.2869329197%
+POCP suggests seperate genus between the input genome and Dysgonomonas_alginatilytica--GCF_003201355.1 as POCP was;	36.7900372439%
+POCP suggests seperate genus between the input genome and Bacteroides_intestinalis--GCF_000172175.1 as POCP was;	47.9009329187%
+POCP suggests seperate genus between the input genome and Porphyromonas_asaccharolytica--GCF_000212375.1 as POCP was;	28.3482884679%
+POCP suggests the input genome and Parabacteroides_chartae--GCF_900168155.1 belong to the same genus with a POCP of;	56.5640410502%
+POCP suggests seperate genus between the input genome and Bacteroides_fragilis--GCF_000025985.1 as POCP was;	48.8250954972%

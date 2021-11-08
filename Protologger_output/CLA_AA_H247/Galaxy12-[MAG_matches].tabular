@@ -1,0 +1,19 @@
+#MAG-ID	Host-environment	Study	Sample meta-data	MASH distance
+ERR1018240_bin.12.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;Asia	0.0482105
+SRR3131842_bin.4.fna	Human	Almeida_2019	Health status;Diseased,Disease;Premature,Antibiotic treated;NA,Age group;Infant,Location;North America	0.0397669
+YuJ_2015__SZAXPI015235-21__bin_51.fa	Human	Pasolli_2019	Body site;Stool,Age group;Senior,Location;China	0.0478612
+ERR1018194_bin.15.fna	Human	Almeida_2019	Health status;Diseased,Disease;Colorectal Cancer,Antibiotic treated;NA,Age group;NA,Location;Asia	0.0492808
+SRR6054480_bin.11.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0496454
+SRR6257472_bin.6.fna	Human	Almeida_2019	Health status;Diseased,Disease;Premature,Antibiotic treated;NA,Age group;Infant,Location;North America	0.0436329
+SRR2048044_bin.3.fna	Human	Almeida_2019	Health status;Diseased,Disease;NA,Antibiotic treated;NA,Age group;Infant,Location;North America	0.0496454
+SRR3132029_bin.3.fna	Human	Almeida_2019	Health status;Diseased,Disease;Premature,Antibiotic treated;NA,Age group;Infant,Location;North America	0.0388388
+SRR1821190_bin.19.fna	Human	Almeida_2019	Health status;Diseased,Disease;Eczema,Antibiotic treated;NA,Age group;Infant,Location;Asia	0.0470041
+SRR1779105_bin.3.fna	Human	Almeida_2019	Health status;Diseased,Disease;Premature,Antibiotic treated;Yes,Age group;Infant,Location;North America	0.0450347
+SRR341688_bin.25.fna	Human	Almeida_2019	Health status;Diseased,Disease;Type 2 Diabetes,Antibiotic treated;No,Age group;Adult,Location;Asia	0.0460045
+SRR6257471_bin.6.fna	Human	Almeida_2019	Health status;Diseased,Disease;Premature,Antibiotic treated;NA,Age group;Infant,Location;North America	0.0444041
+SRR5056858_bin.19.fna	Human	Almeida_2019	Health status;Diseased,Disease;Infection,Antibiotic treated;Yes,Age group;NA,Location;North America	0.0458408
+SRR6257477_bin.2.fna	Human	Almeida_2019	Health status;Diseased,Disease;Premature,Antibiotic treated;NA,Age group;Infant,Location;North America	0.0444041
+FerrettiP_2018__CA_C10049IS2866FE_t4M16__bin_3.fa	Human	Pasolli_2019	Body site;Stool,Age group;Newborn,Location;Italy	0.041003
+CM_cf__CF_TNFC017SA_t1M16__bin_6.fa	Human	Pasolli_2019	Body site;Oral cavity,Age group;Child,Location;Italy	0.0494626
+SRR6257474_bin.7.fna	Human	Almeida_2019	Health status;Diseased,Disease;Premature,Antibiotic treated;NA,Age group;Infant,Location;North America	0.0453547
+ERR866561_bin.6.fna	Human	Almeida_2019	Health status;Diseased,Disease;Infection,Antibiotic treated;NA,Age group;NA,Location;Asia	0.0496454
