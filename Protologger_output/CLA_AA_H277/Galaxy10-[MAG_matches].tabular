@@ -1,0 +1,8 @@
+#MAG-ID	Host-environment	Study	Sample meta-data	MASH distance
+ERR688621_bin.19.fna	Human	Almeida_2019	Health status;Diseased,Disease;Adenoma,Antibiotic treated;No,Age group;NA,Location;Europe	0.0197565
+SRR5057091_bin.61.fna	Human	Almeida_2019	Health status;Diseased,Disease;Infection,Antibiotic treated;Yes,Age group;NA,Location;North America	0.0178312
+SRR5077148_bin.1.fna	Human	Almeida_2019	Health status;Diseased,Disease;Infection,Antibiotic treated;Yes,Age group;NA,Location;North America	0.0229306
+SRR341678_bin.3.fna	Human	Almeida_2019	Health status;Diseased,Disease;Type 2 Diabetes,Antibiotic treated;No,Age group;Adult,Location;Asia	0.0218499
+QinJ_2012__DOF008__bin_23.fa	Human	Pasolli_2019	Body site;Stool,Age group;Adult,Location;China	0.0233762
+ERR688506_bin.55.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;NA,Location;Europe	0.0186813
+SRR5056886_bin.24.fna	Human	Almeida_2019	Health status;Diseased,Disease;Infection,Antibiotic treated;Yes,Age group;NA,Location;North America	0.0208822

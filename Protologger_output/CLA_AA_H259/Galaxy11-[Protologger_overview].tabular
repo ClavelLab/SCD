@@ -1,0 +1,149 @@
+Protologger v0.99; Run date: 2021-07-23
+Quality check
+-------------
+
+WARNING: The input 16S rRNA gene may be incomplete, please check the 16S rRNA gene and be wary of the output results as they may be incorrect
+The input 16S rRNA gene was determined to be 63.3631713555% complete compared to its closest relative
+The input 16S rRNA gene was not identified as a chimera.
+The input genome is of high quality and suitable for analysis
+Genome completeness is ;99.37
+Genome contamination is ;0.0
+
+
+16S rRNA gene analysis
+-------------------------
+
+The input 16S rRNA determined the isolate to be; not novel
+The best match was to; Blautia wexlerae--Unclassified Clostridiales--EF036467 (Valid) (98.9909182644%)
+
+
+Genome analysis
+---------------
+
+Genome based assignment via GTDB-Tk placed the genome as; d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Blautia_A;s__Blautia_A wexlerae
+GTDB-Tk was able to assign the genome to; GCF_000484655.1
+The genome size is; 4.01Mbp base pairs
+G+C percentage is; 41.42%
+ANI identified the input genome as being a strain of Blautia_wexlerae due to an ANI value of 97.1857%
+ANI match >95% identified to; Blautia_wexlerae
+No validly named species with a sequenced genome within the GTDB-Tk database was identified to have a ANI value >95% with the studied genome
+The input genome was assigned to Blautia with a POCP value of 64.4675103085%
+CRISPR arrays identified; 2
+Coding sequences identified; 3517
+
+
+Functional analysis
+-------------------
+
+Number of transporters; 125
+Number of secretion genes; 11
+Number of unique enzymes; 573
+The following carbon sources were predicted to be utilised; glucose, starch
+Acetate production predicted from acetyl-CoA (EC:2.3.1.8, 2.7.2.1)
+Propionate production predicted from propanoyl-CoA (EC:2.3.1.8, 2.7.2.1)
+L-glutamate production from ammonia was predicted via L-glutamine (EC:6.3.1.2, 1.4.1.-)
+Cobalamin (vitamin B12) biosynthesis predicted from cobinamide (EC:2.5.1.17, 6.3.5.10, 6.2.1.10, 2.7.1.156)
+Folate (vitamin B9) biosynthesis predicted from 7,8-dihydrofolate (EC:1.5.1.3)
+Riboflavin (vitamin B2) biosynthesis predicted from GTP (EC:3.5.4.25, 3.5.4.26, 1.1.1.193, 3.1.3.104, 4.1.99.12, 2.5.1.78, 2.5.1.9, 2.7.1.26, 2.7.7.2)
+
+
+Antibiotic resistance analysis
+------------------------------
+
+Antibiotic inactivation resistance may be conferred by antibiotic inactivation via detection of aph(2'');aac(6')
+
+
+CAZyme analysis
+---------------
+
+In total the following number of CAZymes were identified within the genome; 215
+The following occurrences of glycoside hydrolase (GH) families were identified within the genome; 
+GH16;2
+GH13;16
+GH10;1
+GH11;1
+GH18;1
+GH19;1
+GH38;1
+GH39;1
+GH51;3
+GH73;2
+GH31;4
+GH32;7
+GH36;2
+GH127;2
+GH101;1
+GH25;1
+GH105;3
+GH120;2
+GH29;2
+GH28;1
+GH23;4
+GH43;4
+GH42;3
+GH4;2
+GH6;2
+GH0;3
+GH1;4
+GH2;7
+GH3;9
+GH77;2
+GH130;1
+GH94;3
+GH95;2
+GH112;1
+GH91;1
+The following occurrences of glycoside transferase (GT) families were identified within the genome; 
+GT26;2
+GT32;1
+GT82;1
+GT13;1
+GT28;5
+GT35;2
+GT2;29
+GT4;27
+GT5;3
+GT51;1
+The following occurrences of polysaccharise lyase (PL) families were identified within the genome; 
+PL12;2
+The following occurrences of carbohydrate esterase (CE) families were identified within the genome; 
+CE12;1
+CE4;4
+CE9;5
+CE1;1
+The following occurrences of carbohydrate-binding module (CBM) families were identified within the genome; 
+CBM50;16
+CBM13;2
+CBM48;10
+CBM0;4
+CBM34;1
+CBM5;1
+CBM20;1
+CBM9;1
+
+
+Ecological analysis
+-------------------
+
+Metagenome assembled genomes (MAGs) clustering with your isolates genome were identified, in total 311 MAGs were identified 
+
+
+The isolate was detected in 0.7% of 1,000 amplicon samples from the insect gut metagenome at a mean relative abundance of 0.01% with a standard deviation of 0.01%.
+The isolate was detected in 0.8% of 1,000 amplicon samples from the plant metagenome at a mean relative abundance of 0.00% with a standard deviation of 0.00%.
+The isolate was detected in 1.5% of 1,000 amplicon samples from the human lung metagenome at a mean relative abundance of 0.06% with a standard deviation of 0.14%.
+The isolate was detected in 8.3% of 1,000 amplicon samples from the mouse gut metagenome at a mean relative abundance of 1.80% with a standard deviation of 4.56%.
+The isolate was detected in 6.3% of 1,000 amplicon samples from the human skin metagenome at a mean relative abundance of 0.36% with a standard deviation of 2.18%.
+The isolate was detected in 35.9% of 1,000 amplicon samples from the pig gut metagenome at a mean relative abundance of 0.51% with a standard deviation of 1.48%.
+The isolate was detected in 2.1% of 1,000 amplicon samples from the human oral metagenome at a mean relative abundance of 0.10% with a standard deviation of 0.24%.
+The isolate was detected in 36.5% of 1,000 amplicon samples from the activated sludge metagenome at a mean relative abundance of 0.01% with a standard deviation of 0.01%.
+The isolate was detected in 25.9% of 1,000 amplicon samples from the wastewater metagenome at a mean relative abundance of 1.20% with a standard deviation of 2.31%.
+The isolate was detected in 1.8% of 1,000 amplicon samples from the marine sediment metagenome at a mean relative abundance of 0.00% with a standard deviation of 0.00%.
+The isolate was detected in 10.2% of 1,000 amplicon samples from the rhizosphere metagenome at a mean relative abundance of 0.02% with a standard deviation of 0.08%.
+The isolate was detected in 1.7% of 1,000 amplicon samples from the soil metagenome at a mean relative abundance of 0.01% with a standard deviation of 0.02%.
+The isolate was detected in 0.8% of 1,000 amplicon samples from the marine metagenome at a mean relative abundance of 0.01% with a standard deviation of 0.02%.
+The isolate was detected in 5.3% of 1,000 amplicon samples from the freshwater metagenome at a mean relative abundance of 0.05% with a standard deviation of 0.09%.
+The isolate was detected in 0.4% of 1,000 amplicon samples from the coral metagenome at a mean relative abundance of 0.06% with a standard deviation of 0.08%.
+The isolate was detected in 63.0% of 1,000 amplicon samples from the human gut metagenome at a mean relative abundance of 2.67% with a standard deviation of 5.56%.
+The isolate was detected in 4.2% of 1,000 amplicon samples from the chicken gut metagenome at a mean relative abundance of 0.16% with a standard deviation of 0.47%.
+The isolate was detected in 7.6% of 1,000 amplicon samples from the human vaginal metagenome at a mean relative abundance of 0.01% with a standard deviation of 0.03%.
+The isolate was detected in 20.9% of 1,000 amplicon samples from the bovine gut metagenome at a mean relative abundance of 0.82% with a standard deviation of 1.66%.
