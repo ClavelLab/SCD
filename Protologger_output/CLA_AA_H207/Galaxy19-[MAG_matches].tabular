@@ -1,0 +1,21 @@
+#MAG-ID	Host-environment	Study	Sample meta-data	MASH distance
+HeQ_2017__SZAXPI029485-81__bin_30.fa	Human	Pasolli_2019	Body site;Stool,Age group;Adult,Location;China	0.0200822
+ERR1620271_bin.12.fna	Human	Almeida_2019	Health status;Diseased,Disease;Crohns Disease,Antibiotic treated;NA,Age group;Adult,Location;Asia	0.0191812
+SRR341607_bin.8.fna	Human	Almeida_2019	Health status;Diseased,Disease;Type 2 Diabetes,Antibiotic treated;No,Age group;Adult,Location;Asia	0.0178909
+ERR1620290_bin.8.fna	Human	Almeida_2019	Health status;Diseased,Disease;Crohns Disease,Antibiotic treated;NA,Age group;Adult,Location;Asia	0.0173006
+ERR525742_bin.24.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;Europe	0.0186813
+SRR5579973_bin.31.fna	Human	Almeida_2019	Health status;Diseased,Disease;Type 2 Diabetes,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0188675
+ERR321312_bin.19.fna	Human	Almeida_2019	Health status;Diseased,Disease;Obesity,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0194352
+SRR5106402_bin.2.fna	Human	Almeida_2019	Health status;Diseased,Disease;Vogt-Koyanagi-Harada disease,Antibiotic treated;NA,Age group;Elderly,Location;Asia	0.0191812
+ERR1018283_bin.52.fna	Human	Almeida_2019	Health status;Diseased,Disease;Colorectal Cancer,Antibiotic treated;NA,Age group;NA,Location;Asia	0.0210181
+SRR4408210_bin.1.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;Infant,Location;Europe	0.0170111
+ERR1620262_bin.23.fna	Human	Almeida_2019	Health status;Diseased,Disease;Crohns Disease,Antibiotic treated;NA,Age group;Adult,Location;Asia	0.0227838
+SRR4408001_bin.18.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;Infant,Location;Europe	0.0209501
+ERR526042_bin.2.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;Europe	0.0181917
+ERR1620308_bin.21.fna	Human	Almeida_2019	Health status;Diseased,Disease;Crohns Disease,Antibiotic treated;NA,Age group;Adult,Location;Asia	0.0224204
+ERR970269_bin.2.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;NA,Age group;Infant,Location;Asia	0.0201478
+SRR4408146_bin.4.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;Infant,Location;Europe	0.0171844
+SRR341581_bin.6.fna	Human	Almeida_2019	Health status;Diseased,Disease;Type 2 Diabetes,Antibiotic treated;No,Age group;Adult,Location;Asia	0.0210864
+ERR1578623_bin.22.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;No,Age group;NA,Location;Asia	0.0189299
+ERR1018284_bin.24.fna	Human	Almeida_2019	Health status;Diseased,Disease;Colorectal Cancer,Antibiotic treated;NA,Age group;NA,Location;Asia	0.0222766
+SRR5579967_bin.50.fna	Human	Almeida_2019	Health status;Diseased,Disease;Type 2 Diabetes,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0190552
