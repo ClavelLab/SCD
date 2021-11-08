@@ -1,0 +1,291 @@
+#MAG-ID	Host-environment	Study	Sample meta-data	MASH distance
+ERR526077_bin.31.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;Europe	0.0155619
+ERR1297683_bin.1.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;No,Age group;NA,Location;Europe	0.0173006
+SRR5275462_bin.11.fna	Human	Almeida_2019	Health status;Diseased,Disease;Non-alcoholic Fatty Liver Disease,Antibiotic treated;NA,Age group;NA,Location;North America	0.0154006
+ERR1293638_bin.14.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0163307
+CM_madagascar__V53_02_1FE__bin_36.fa	Human	Pasolli_2019	Body site;Stool,Age group;Adult,Location;Madagascar	0.0213613
+ERR1913086_bin.16.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;NA,Location;Europe	0.015943
+ERR525839_bin.40.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;Europe	0.0175349
+SRR5127719_bin.15.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0163866
+ERR1293641_bin.29.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0171844
+SRR3993017_bin.55.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Asia	0.0164427
+ERR526087_bin.20.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;Europe	0.0178312
+SRR5127785_bin.21.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0188053
+SRR4408131_bin.8.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;Infant,Location;Europe	0.0214305
+SRR5091550_bin.21.fna	Human	Almeida_2019	Health status;Diseased,Disease;Rheumatoid Arthritis,Antibiotic treated;NA,Age group;NA,Location;Asia	0.0193079
+ERR1293740_bin.16.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0185579
+ERR525879_bin.55.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;Europe	0.0181313
+SRR5127779_bin.7.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0149759
+ERR1913082_bin.17.fna	Human	Almeida_2019	Health status;Diseased,Disease;Parkinson,Antibiotic treated;No,Age group;NA,Location;Europe	0.0163307
+ERR688540_bin.7.fna	Human	Almeida_2019	Health status;Diseased,Disease;Adenoma,Antibiotic treated;No,Age group;NA,Location;Europe	0.023602
+SRR5127436_bin.3.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0156702
+ERR1018291_bin.45.fna	Human	Almeida_2019	Health status;Diseased,Disease;Colorectal Cancer,Antibiotic treated;NA,Age group;NA,Location;Asia	0.0184352
+SRR5057108_bin.30.fna	Human	Almeida_2019	Health status;Diseased,Disease;Infection,Antibiotic treated;No,Age group;NA,Location;North America	0.0178909
+SRR5127593_bin.5.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0158882
+ERR1297781_bin.20.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;No,Age group;NA,Location;Europe	0.0163866
+SRR5275446_bin.1.fna	Human	Almeida_2019	Health status;Diseased,Disease;Non-alcoholic Fatty Liver Disease,Antibiotic treated;NA,Age group;NA,Location;North America	0.0174761
+ERR526075_bin.47.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;Europe	0.0171844
+ERR526074_bin.5.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;Europe	0.0155619
+SRR5127821_bin.26.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0164427
+SRR1196624_bin.16.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.015943
+SRR5127502_bin.30.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0186195
+SRR4408044_bin.18.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;Infant,Location;Europe	0.0195632
+SRR5127419_bin.20.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0177122
+SRR2857970_bin.93.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;Elderly,Location;North America	0.0177716
+SRR5057090_bin.128.fna	Human	Almeida_2019	Health status;Diseased,Disease;Infection,Antibiotic treated;Yes,Age group;NA,Location;North America	0.0152404
+SRR5127399_bin.13.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0170687
+SRR1201476_bin.9.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0143027
+ERR526018_bin.12.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;Europe	0.0152936
+SRR5127730_bin.12.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0157789
+SRR5127825_bin.12.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.016782
+SRR1490990_bin.2.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0202137
+ERR1297703_bin.2.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;No,Age group;NA,Location;Europe	0.0164427
+SRR5127411_bin.18.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0183132
+SRR2155336_bin.22.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0178312
+ERR1297687_bin.11.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;No,Age group;NA,Location;Europe	0.0162193
+SRR1197714_bin.7.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0143027
+SRR5275394_bin.20.fna	Human	Almeida_2019	Health status;Diseased,Disease;Non-alcoholic Fatty Liver Disease,Antibiotic treated;NA,Age group;NA,Location;North America	0.017653
+SRR6054473_bin.22.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0168391
+ERR525876_bin.23.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;Europe	0.0161084
+ERR525975_bin.13.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;Europe	0.0139988
+SRR5056864_bin.16.fna	Human	Almeida_2019	Health status;Diseased,Disease;Infection,Antibiotic treated;Yes,Age group;NA,Location;North America	0.0158335
+SRR5127860_bin.5.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0184352
+ERR1913067_bin.5.fna	Human	Almeida_2019	Health status;Diseased,Disease;Parkinson,Antibiotic treated;No,Age group;NA,Location;Europe	0.0171265
+SRR4305258_bin.6.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;Infant,Location;Europe	0.0224927
+SRR5127682_bin.28.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0204123
+SRR1197589_bin.12.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0158882
+ERR1953520_bin.61.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;NA,Age group;Adult,Location;NA	0.0167251
+SRR3993013_bin.54.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Asia	0.0212923
+ERR1297834_bin.19.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;No,Age group;NA,Location;Europe	0.0161084
+ERR525954_bin.6.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;Europe	0.0169536
+SRR5127802_bin.20.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0158335
+ERR1913026_bin.17.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;NA,Location;Europe	0.0214305
+SRR1197635_bin.2.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0166117
+SRR5275422_bin.14.fna	Human	Almeida_2019	Health status;Diseased,Disease;Non-alcoholic Fatty Liver Disease,Antibiotic treated;NA,Age group;NA,Location;North America	0.0163307
+SRR5127450_bin.9.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0187432
+SRR1980005_bin.5.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;Infant,Location;Europe	0.0179508
+ERR525900_bin.3.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;Europe	0.0174761
+ERR1913122_bin.4.fna	Human	Almeida_2019	Health status;Diseased,Disease;Parkinson,Antibiotic treated;No,Age group;NA,Location;Europe	0.0161084
+SRR4305034_bin.5.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;Infant,Location;Europe	0.0182524
+SRR1197585_bin.18.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0164989
+ERR1293553_bin.6.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0161637
+SRR1461904_bin.4.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0168963
+SRR2912804_bin.4.fna	Human	Almeida_2019	Health status;Diseased,Disease;Type 2 Diabetes,Antibiotic treated;Yes,Age group;Adult,Location;North America	0.0206126
+SRR5127771_bin.14.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0170687
+ERR1297640_bin.1.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;No,Age group;NA,Location;Europe	0.0184352
+SRR5127393_bin.23.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0167251
+ERR1620336_bin.25.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;NA,Age group;Teenager,Location;Asia	0.0175939
+SRR5558150_bin.30.fna	Human	Almeida_2019	Health status;Diseased,Disease;Type 2 Diabetes,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0187432
+SRR5127795_bin.15.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0178312
+SRR4408273_bin.16.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;Infant,Location;Europe	0.015347
+SRR1196573_bin.4.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0178909
+ERR1578625_bin.57.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;No,Age group;NA,Location;Asia	0.0183132
+SRR5127794_bin.10.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0168963
+ERR414240_bin.67.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;Europe	0.0174761
+ERR688616_bin.24.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;NA,Location;Europe	0.0158335
+SRR5057054_bin.68.fna	Human	Almeida_2019	Health status;Diseased,Disease;Infection,Antibiotic treated;No,Age group;NA,Location;North America	0.0177716
+ERR1913025_bin.10.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;NA,Location;Europe	0.0220623
+ERR526017_bin.6.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;Europe	0.0170111
+ERR1293640_bin.33.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0166683
+SRR1196462_bin.30.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0200167
+SRR5056926_bin.53.fna	Human	Almeida_2019	Health status;Diseased,Disease;Infection,Antibiotic treated;Yes,Age group;NA,Location;North America	0.0197565
+SRR3992965_bin.38.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Asia	0.0152404
+SRR585753_bin.25.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;Europe	0.0181917
+SRR3993004_bin.33.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Asia	0.0171265
+ERR525914_bin.2.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;Europe	0.0174175
+ERR1913081_bin.32.fna	Human	Almeida_2019	Health status;Diseased,Disease;Parkinson,Antibiotic treated;No,Age group;NA,Location;Europe	0.0152404
+SRR1461986_bin.2.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0202137
+SRR3917587_bin.12.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;NA,Age group;Adult,Location;North America	0.0194352
+SRR2155352_bin.34.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0170687
+SRR6028629_bin.8.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0168963
+ERR1297815_bin.8.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;No,Age group;NA,Location;Europe	0.0157245
+SRR5127683_bin.25.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0172424
+ERR1913059_bin.16.fna	Human	Almeida_2019	Health status;Diseased,Disease;Parkinson,Antibiotic treated;No,Age group;NA,Location;Europe	0.0152936
+ERR1293783_bin.26.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0180108
+SRR5275447_bin.15.fna	Human	Almeida_2019	Health status;Diseased,Disease;Non-alcoholic Fatty Liver Disease,Antibiotic treated;NA,Age group;NA,Location;North America	0.0161637
+ERR525913_bin.7.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;Europe	0.016782
+SRR5127643_bin.17.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0194991
+SRR3992975_bin.32.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Asia	0.0171844
+ERR1297641_bin.2.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;No,Age group;NA,Location;Europe	0.0178312
+SRR6028228_bin.4.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0180108
+SRR6028515_bin.3.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0162749
+ERR526076_bin.39.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;Europe	0.0170687
+SRR5127488_bin.26.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0193079
+ERR525846_bin.14.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;Europe	0.015943
+ERR1297810_bin.23.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;No,Age group;NA,Location;Europe	0.0160531
+SRR5127492_bin.3.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0183741
+ERR1913083_bin.12.fna	Human	Almeida_2019	Health status;Diseased,Disease;Parkinson,Antibiotic treated;No,Age group;NA,Location;Europe	0.0162193
+ERR1293725_bin.2.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0149759
+SRR4408078_bin.9.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;Infant,Location;Europe	0.015943
+ERR526037_bin.9.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;Europe	0.0195632
+ERR1018244_bin.61.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;Asia	0.0189925
+ERR526073_bin.1.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;Europe	0.0162193
+SRR5558165_bin.15.fna	Human	Almeida_2019	Health status;Diseased,Disease;Type 2 Diabetes,Antibiotic treated;No,Age group;Adult,Location;Europe	0.017359
+SRR4408090_bin.9.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;Infant,Location;Europe	0.0162193
+SRR4305091_bin.8.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;Infant,Location;Europe	0.0180709
+ERR1293785_bin.11.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0181917
+ERR1913125_bin.8.fna	Human	Almeida_2019	Health status;Diseased,Disease;Parkinson,Antibiotic treated;No,Age group;NA,Location;Europe	0.016782
+ERR1293782_bin.15.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0178312
+SRR5127800_bin.23.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0165552
+ERR209815_bin.25.fna	Human	Almeida_2019	Health status;Diseased,Disease;Ulcerative colitis,Antibiotic treated;NA,Age group;Adult,Location;Europe	0.0211548
+SRR1491748_bin.1.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0206797
+SRR1461900_bin.4.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0239063
+SRR4408079_bin.3.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;Infant,Location;Europe	0.0135508
+SRR3993009_bin.19.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Asia	0.0188053
+ERR1297794_bin.15.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;No,Age group;NA,Location;Europe	0.0173006
+ERR1293851_bin.16.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0162749
+SRR3992970_bin.51.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Asia	0.0184965
+SRR1462605_bin.1.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0178909
+ERR1293739_bin.16.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0186195
+SRR4408136_bin.8.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;Infant,Location;Europe	0.0157789
+ERR209692_bin.19.fna	Human	Almeida_2019	Health status;Diseased,Disease;Crohns Disease,Antibiotic treated;NA,Age group;NA,Location;Europe	0.0208822
+ERR1913068_bin.24.fna	Human	Almeida_2019	Health status;Diseased,Disease;Parkinson,Antibiotic treated;No,Age group;NA,Location;Europe	0.0164427
+SRR5558289_bin.26.fna	Human	Almeida_2019	Health status;Diseased,Disease;Type 2 Diabetes,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0224927
+SRR1491030_bin.1.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0205456
+ERR1297660_bin.10.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;No,Age group;NA,Location;Europe	0.0156702
+ERR209764_bin.28.fna	Human	Almeida_2019	Health status;Diseased,Disease;Ulcerative colitis,Antibiotic treated;NA,Age group;Adult,Location;Europe	0.0175349
+SRR1197623_bin.7.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0170111
+ERR525732_bin.6.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;Europe	0.0168963
+SRR2155347_bin.10.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0154006
+SRR341680_bin.7.fna	Human	Almeida_2019	Health status;Diseased,Disease;Type 2 Diabetes,Antibiotic treated;No,Age group;Adult,Location;Asia	0.020747
+SRR4305437_bin.3.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;Infant,Location;Europe	0.0161084
+ERR1913084_bin.14.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;NA,Location;Europe	0.0162749
+SRR4408266_bin.5.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;Infant,Location;Europe	0.0151872
+SRR1462094_bin.6.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0199514
+SRR5558038_bin.18.fna	Human	Almeida_2019	Health status;Diseased,Disease;Type 2 Diabetes,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0164989
+SRR3993026_bin.31.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Asia	0.0183132
+ERR525910_bin.3.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;Europe	0.0169536
+ERR525912_bin.43.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;Europe	0.0166683
+DRR042453_bin.16.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Asia	0.0181917
+ERR1293554_bin.1.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0170111
+ERR1293555_bin.17.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0161084
+ERR1913057_bin.5.fna	Human	Almeida_2019	Health status;Diseased,Disease;Parkinson,Antibiotic treated;No,Age group;NA,Location;Europe	0.0157789
+SRR5127742_bin.13.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0181313
+SRR4305372_bin.5.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;Infant,Location;Europe	0.0177716
+ERR525688_bin.23.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;Europe	0.0168963
+SRR5056653_bin.73.fna	Human	Almeida_2019	Health status;Diseased,Disease;Infection,Antibiotic treated;No,Age group;NA,Location;North America	0.0188675
+SRR5275438_bin.29.fna	Human	Almeida_2019	Health status;Diseased,Disease;Non-alcoholic Fatty Liver Disease,Antibiotic treated;NA,Age group;NA,Location;North America	0.0171844
+SRR5127803_bin.17.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0185579
+SRR5127735_bin.13.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0170111
+SRR5127451_bin.12.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0163307
+SRR2155345_bin.1.fna	Human	Almeida_2019	Health status;Diseased,Disease;Obesity,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0196275
+ERR1297700_bin.27.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;No,Age group;NA,Location;Europe	0.0166117
+SRR5275450_bin.6.fna	Human	Almeida_2019	Health status;Diseased,Disease;Non-alcoholic Fatty Liver Disease,Antibiotic treated;NA,Age group;NA,Location;North America	0.0164989
+SRR1197033_bin.8.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0156702
+ERR1190544_bin.26.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Asia	0.0168963
+ERR1293722_bin.19.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0149234
+SRR2155354_bin.5.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0135016
+SRR1461895_bin.1.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0217093
+ERR1913087_bin.11.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;NA,Location;Europe	0.0158335
+SRR4305297_bin.1.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;Infant,Location;Europe	0.0166683
+SRR2155314_bin.8.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.017359
+SRR6028583_bin.20.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.015347
+SRR5127740_bin.21.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.016782
+ERR1297751_bin.24.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;No,Age group;NA,Location;Europe	0.0174175
+SRR1915770_bin.3.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;Infant,Location;Europe	0.0174761
+SRR1491677_bin.7.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0205456
+SRR5127509_bin.2.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0162193
+ERR525780_bin.19.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;Europe	0.0163307
+SRR1482537_bin.6.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0200167
+ERR414230_bin.35.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;Europe	0.0167251
+ERR525849_bin.8.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;Europe	0.0204123
+SRR6028163_bin.28.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0171844
+ERR525729_bin.36.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;Europe	0.015616
+ERR525774_bin.5.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;Europe	0.0165552
+ERR1190654_bin.55.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Asia	0.0179508
+ERR1293853_bin.19.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0166117
+ERR525868_bin.15.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;Europe	0.0171844
+SRR6028567_bin.4.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0202797
+SRR5127491_bin.24.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0157245
+SRR4305046_bin.17.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;Infant,Location;Europe	0.0210864
+SRR5279278_bin.31.fna	Human	Almeida_2019	Health status;Diseased,Disease;Ankylosing Spondylitis,Antibiotic treated;No,Age group;Adult,Location;Asia	0.0183132
+SRR5056994_bin.79.fna	Human	Almeida_2019	Health status;Diseased,Disease;Infection,Antibiotic treated;No,Age group;NA,Location;North America	0.0151872
+SRR5127656_bin.22.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0199514
+SRR1491483_bin.2.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0175939
+SRR1197021_bin.14.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0154006
+ERR525903_bin.57.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;Europe	0.017359
+ERR1305901_bin.41.fna	Human	Almeida_2019	Health status;Diseased,Disease;Obesity,Antibiotic treated;NA,Age group;Adult,Location;Europe	0.0169536
+ERR1913028_bin.18.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;NA,Location;Europe	0.0216393
+ERR1913058_bin.3.fna	Human	Almeida_2019	Health status;Diseased,Disease;Parkinson,Antibiotic treated;No,Age group;NA,Location;Europe	0.0156702
+SRR3917619_bin.4.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;NA,Age group;Adult,Location;North America	0.0166683
+SRR4408106_bin.2.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;Infant,Location;Europe	0.0196275
+SRR1461813_bin.4.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0208822
+SRR5127513_bin.4.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0154006
+SRR6054444_bin.20.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.015998
+SRR3992963_bin.28.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Asia	0.0195632
+ERR1297782_bin.3.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;No,Age group;NA,Location;Europe	0.0170687
+SRR2155350_bin.13.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0162193
+SRR5056841_bin.89.fna	Human	Almeida_2019	Health status;Diseased,Disease;Infection,Antibiotic treated;No,Age group;NA,Location;North America	0.015347
+SRR1490949_bin.2.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0209501
+SRR6028657_bin.11.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0151342
+SRR6028392_bin.5.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0203459
+ERR1297677_bin.22.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;No,Age group;NA,Location;Europe	0.0178312
+SRR5127602_bin.11.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0163307
+ERR414256_bin.3.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;Europe	0.0166117
+ERR1913080_bin.28.fna	Human	Almeida_2019	Health status;Diseased,Disease;Parkinson,Antibiotic treated;No,Age group;NA,Location;Europe	0.0162749
+ERR1297836_bin.19.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;No,Age group;NA,Location;Europe	0.0156702
+SRR1761670_bin.20.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;South America	0.020747
+ERR1297828_bin.11.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;No,Age group;NA,Location;Europe	0.0169536
+SRR5127434_bin.7.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0157789
+ERR1913027_bin.20.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;NA,Location;Europe	0.0209501
+ERR1297779_bin.2.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;No,Age group;NA,Location;Europe	0.0184352
+ERR525851_bin.18.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;Europe	0.0186195
+ERR1913073_bin.4.fna	Human	Almeida_2019	Health status;Diseased,Disease;Parkinson,Antibiotic treated;No,Age group;NA,Location;Europe	0.0177716
+SRR6028516_bin.25.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0154006
+ERR1305887_bin.9.fna	Human	Almeida_2019	Health status;Diseased,Disease;Obesity,Antibiotic treated;NA,Age group;Adult,Location;Europe	0.0171844
+SRR2992898_bin.64.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;North America	0.0162193
+SRR6028474_bin.10.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0162749
+ERR1297714_bin.11.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;No,Age group;NA,Location;Europe	0.0169536
+SRR1197011_bin.6.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0161637
+SRR5558042_bin.18.fna	Human	Almeida_2019	Health status;Diseased,Disease;Type 2 Diabetes,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0170687
+ERR1913085_bin.7.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;NA,Location;Europe	0.0178909
+SRR5127813_bin.10.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0164989
+ERR526083_bin.1.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;Europe	0.0181313
+SRR5127650_bin.22.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0177716
+ERR1190556_bin.27.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Asia	0.0184965
+SRR3993006_bin.31.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Asia	0.016782
+ERR1913124_bin.10.fna	Human	Almeida_2019	Health status;Diseased,Disease;Parkinson,Antibiotic treated;No,Age group;NA,Location;Europe	0.0161637
+SRR3993028_bin.18.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Asia	0.0186195
+ERR525843_bin.16.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;Europe	0.0183132
+ERR1912992_bin.22.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;NA,Location;Europe	0.0204123
+SRR1196464_bin.36.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0204789
+SRR5127743_bin.22.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0168391
+ERR525893_bin.23.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;Europe	0.0163307
+SRR2992893_bin.40.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;North America	0.015998
+SRR5127693_bin.8.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0177122
+ERR1293784_bin.11.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0177716
+ERR1305890_bin.44.fna	Human	Almeida_2019	Health status;Diseased,Disease;Obesity,Antibiotic treated;NA,Age group;Adult,Location;Europe	0.0147145
+SRR4408126_bin.6.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;Infant,Location;Europe	0.0195632
+SRR3992989_bin.24.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Asia	0.0173006
+ERR525751_bin.18.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;Europe	0.0187432
+SRR2155396_bin.2.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0175939
+SRR5275406_bin.25.fna	Human	Almeida_2019	Health status;Diseased,Disease;Non-alcoholic Fatty Liver Disease,Antibiotic treated;NA,Age group;NA,Location;North America	0.0154006
+SRR4408257_bin.4.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;Infant,Location;Europe	0.0210864
+ERR688533_bin.74.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;NA,Location;Europe	0.0225651
+ERR526013_bin.18.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;Europe	0.0192445
+SRR1980003_bin.4.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;Infant,Location;Europe	0.016782
+SRR5127713_bin.15.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0193079
+ERR1297808_bin.8.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;No,Age group;NA,Location;Europe	0.0164427
+SRR1196509_bin.3.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0152936
+SRR5127582_bin.17.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0212234
+ERR525706_bin.6.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;Europe	0.0151342
+ERR1190868_bin.28.fna	Human	Almeida_2019	Health status;Diseased,Disease;Type 2 Diabetes,Antibiotic treated;NA,Age group;Adult,Location;Asia	0.0188053
+SRR5127408_bin.1.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0152936
+SRR5127425_bin.4.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0172424
+ERR1913075_bin.8.fna	Human	Almeida_2019	Health status;Diseased,Disease;Parkinson,Antibiotic treated;No,Age group;NA,Location;Europe	0.0181917
+ERR1018307_bin.6.fna	Human	Almeida_2019	Health status;Diseased,Disease;Colorectal Cancer,Antibiotic treated;NA,Age group;NA,Location;Asia	0.016782
+ERR525919_bin.25.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;Europe	0.0205456
+ERR526029_bin.4.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;Europe	0.0168391
+ERR209582_bin.5.fna	Human	Almeida_2019	Health status;Diseased,Disease;Ulcerative colitis,Antibiotic treated;NA,Age group;Adult,Location;Europe	0.0179508
+SRR6028428_bin.7.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0170687
+SRR5275412_bin.27.fna	Human	Almeida_2019	Health status;Diseased,Disease;Non-alcoholic Fatty Liver Disease,Antibiotic treated;NA,Age group;NA,Location;North America	0.0157789
+SRR2912784_bin.26.fna	Human	Almeida_2019	Health status;Diseased,Disease;Type 2 Diabetes,Antibiotic treated;No,Age group;Adult,Location;North America	0.0178312
+SRR6054483_bin.14.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;North America	0.0165552
+SRR1980004_bin.1.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;Infant,Location;Europe	0.0175349
+SRR5127402_bin.25.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.017653
+SRR5127397_bin.1.fna	Human	Almeida_2019	Health status;Healthy,Disease;NA,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0162193
+ERR526039_bin.3.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;Europe	0.0146626
+SRR5558040_bin.7.fna	Human	Almeida_2019	Health status;Diseased,Disease;Type 2 Diabetes,Antibiotic treated;No,Age group;Adult,Location;Europe	0.0164427
+ERR414309_bin.19.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;NA,Location;Europe	0.0171265
+SRR4305054_bin.2.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;Infant,Location;Europe	0.0170111
+SRR4305073_bin.4.fna	Human	Almeida_2019	Health status;NA,Disease;NA,Antibiotic treated;NA,Age group;Infant,Location;Europe	0.0150813
